@@ -92,7 +92,7 @@ Gatsby develop
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-### This website has been deployed
+### This app will be deployed soon
 [https://www.leahwebdev.com](https://www.leahwebdev.com)
 
 
