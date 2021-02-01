@@ -34,7 +34,7 @@
 ## About The Project
 
 
-This is my porfolio site that I created using Gastby. Hope you like it. Must use yarn. Avoid npm please.
+This is my fisrt blog site site that I created using Flash. Hope you like it. It is responsive.
 
 
 
