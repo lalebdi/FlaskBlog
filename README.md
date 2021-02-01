@@ -4,10 +4,10 @@
     
  
 
-  <h3 align="center">This is My Portfolio Site</h3>
+  <h3 align="center">This is My First Blog Site</h3>
 
   <p align="center">
-    An awesome Gatsby portfolio site!
+    An awesome Flask app!
     <br />
     
   </p>
