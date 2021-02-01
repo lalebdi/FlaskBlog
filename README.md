@@ -77,7 +77,7 @@ First you need to install Gastby cli.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/lalebdi/GatsbyPorfolioTemplate.git
+git clone https://github.com/lalebdi/FlaskBlog.git
 ```
 2. Install packages
 ```sh
