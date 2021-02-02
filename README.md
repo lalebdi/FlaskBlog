@@ -38,8 +38,8 @@ This is my fisrt blog site site that I created using Flash. Hope you like it. It
 
 
 
-* Gatsby is a static site generator.
-*  Built with i18n.
+* Used Flask.
+*  Flask Auth.
 *  :smile:
 
 
