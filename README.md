@@ -59,8 +59,6 @@ This is my fisrt blog site site that I created using Flash. Hope you like it. It
 
 There are few things you need to install on you local machine to be able to configure the app.
 
-### Prerequisites
-
 
 
 ### Installation
