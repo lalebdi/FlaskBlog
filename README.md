@@ -75,7 +75,7 @@ First you need to install Gastby cli.
 ### Installation
 
 
-1. Clone the repo
+Clone the repo
 ```sh
 git clone https://github.com/lalebdi/FlaskBlog.git
 ```
