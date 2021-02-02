@@ -79,14 +79,6 @@ First you need to install Gastby cli.
 ```sh
 git clone https://github.com/lalebdi/FlaskBlog.git
 ```
-2. Install packages
-```sh
-yarn install
-```
-3. Launch the app
-```sh
-Gatsby develop
-```
 
 
 
