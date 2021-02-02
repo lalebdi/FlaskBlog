@@ -46,7 +46,7 @@ This is my fisrt blog site site that I created using Flash. Hope you like it. It
 
 ### Built With
 
-* Gatsby
+* Flask
 * Bootstrap
 * Google analytics
 * SASS
