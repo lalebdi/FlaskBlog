@@ -62,10 +62,6 @@ There are few things you need to install on you local machine to be able to conf
 ### Prerequisites
 
 First you need to install Gastby cli.
-* npm
-  ```sh
-  npm install -g gatsby-cli
-  ```
 
 
 ### Installation
