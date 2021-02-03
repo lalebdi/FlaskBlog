@@ -57,9 +57,6 @@ This is my fisrt blog site site that I created using Flash. Hope you like it. It
 <!-- GETTING STARTED -->
 ## Getting Started
 
-There are few things you need to install on you local machine to be able to configure the app.
-
-
 
 ### Installation
 
