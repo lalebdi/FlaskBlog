@@ -74,7 +74,7 @@ git clone https://github.com/lalebdi/FlaskBlog.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 ### This app will be deployed soon
-[https://www.leahwebdev.com](https://www.leahwebdev.com)
+
 
 
 <!-- CONTRIBUTING -->
