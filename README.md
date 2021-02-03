@@ -101,7 +101,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/lalebdi/FlaskBlog](https://github.com/lalebdi/FlaskBlog) 
 Or [https://www.leahwebdev.com](https://www.leahwebdev.com)
-
-
-
-
