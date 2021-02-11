@@ -66,7 +66,7 @@ git clone https://github.com/lalebdi/FlaskBlog.git
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-### This app will be deployed soon
+### This app will be deployed soon  
 
 
 
