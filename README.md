@@ -1,8 +1,6 @@
 
 <p align="center">
   
-    
- 
 
   <h3 align="center">This is My First Blog Site</h3>
 
